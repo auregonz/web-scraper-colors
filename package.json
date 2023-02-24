@@ -1,0 +1,17 @@
+{
+  "name": "web-scraper-colors",
+  "version": "1.0.0",
+  "description": "Test de web scraping en JavaScript de la page Wikipédia Liste de noms de couleur",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js"
+  },
+  "keywords": [],
+  "author": "auregonz",
+  "license": "MIT",
+  "dependencies": {
+    "axios": "^0.25.0",
+    "cheerio": "^1.0.0-rc.10",
+    "express": "^4.17.2"
+  }
+}
